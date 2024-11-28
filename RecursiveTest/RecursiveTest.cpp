@@ -135,6 +135,7 @@ int main()
     //int b = lcm(3, 4);
     //cout << "최대공약수 : " << a << endl;
     //cout << "최소공배수 : " << b << endl;
+    //cout << std::gcd(24, 18) << endl;   //17버전 이상만 가능 
 
     //재귀 알고리즘 사용 예제
     //vector<int> vec{ 1,2,3,4 };

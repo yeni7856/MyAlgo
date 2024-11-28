@@ -15,6 +15,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Queue", "Queue\Queue.vcxpro
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RecursiveTest", "RecursiveTest\RecursiveTest.vcxproj", "{3E0C3F85-24B5-477F-B830-2175281F07BD}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SortTest", "SortTest\SortTest.vcxproj", "{80A8DAA1-FD24-418B-B77B-9DB6B6EEE0E0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -71,6 +73,14 @@ Global
 		{3E0C3F85-24B5-477F-B830-2175281F07BD}.Release|x64.Build.0 = Release|x64
 		{3E0C3F85-24B5-477F-B830-2175281F07BD}.Release|x86.ActiveCfg = Release|Win32
 		{3E0C3F85-24B5-477F-B830-2175281F07BD}.Release|x86.Build.0 = Release|Win32
+		{80A8DAA1-FD24-418B-B77B-9DB6B6EEE0E0}.Debug|x64.ActiveCfg = Debug|x64
+		{80A8DAA1-FD24-418B-B77B-9DB6B6EEE0E0}.Debug|x64.Build.0 = Debug|x64
+		{80A8DAA1-FD24-418B-B77B-9DB6B6EEE0E0}.Debug|x86.ActiveCfg = Debug|Win32
+		{80A8DAA1-FD24-418B-B77B-9DB6B6EEE0E0}.Debug|x86.Build.0 = Debug|Win32
+		{80A8DAA1-FD24-418B-B77B-9DB6B6EEE0E0}.Release|x64.ActiveCfg = Release|x64
+		{80A8DAA1-FD24-418B-B77B-9DB6B6EEE0E0}.Release|x64.Build.0 = Release|x64
+		{80A8DAA1-FD24-418B-B77B-9DB6B6EEE0E0}.Release|x86.ActiveCfg = Release|Win32
+		{80A8DAA1-FD24-418B-B77B-9DB6B6EEE0E0}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
